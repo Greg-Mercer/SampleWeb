@@ -1,0 +1,14 @@
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\bin\Debug\netcoreapp2.2\play.deps.json
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\bin\Debug\netcoreapp2.2\play.runtimeconfig.json
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\bin\Debug\netcoreapp2.2\play.runtimeconfig.dev.json
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\bin\Debug\netcoreapp2.2\play.dll
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\bin\Debug\netcoreapp2.2\play.pdb
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\obj\Debug\netcoreapp2.2\play.csprojAssemblyReference.cache
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\obj\Debug\netcoreapp2.2\play.csproj.CoreCompileInputs.cache
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\obj\Debug\netcoreapp2.2\play.RazorAssemblyInfo.cache
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\obj\Debug\netcoreapp2.2\play.RazorAssemblyInfo.cs
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\obj\Debug\netcoreapp2.2\play.AssemblyInfoInputs.cache
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\obj\Debug\netcoreapp2.2\play.AssemblyInfo.cs
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\obj\Debug\netcoreapp2.2\play.RazorTargetAssemblyInfo.cache
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\obj\Debug\netcoreapp2.2\play.dll
+C:\Users\herbo\OneDrive\Desktop\Term4\intranet\play\obj\Debug\netcoreapp2.2\play.pdb
